@@ -1,13 +1,14 @@
 Deskripsi Program
-Program ini adalah aplikasi Java sederhana yang saya buat untuk memahami dasar-dasar pemrograman Java. Program ini memiliki fungsi utama:
+Program ini merupakan aplikasi Java sederhana, yang saya buat untuk memahami dasar-dasar pemrograman Java. Program ini memiliki fungsi utama:
 
-Input pengguna: Meminta pengguna untuk memasukkan nama mereka melalui keyboard
+Input pengguna: Meminta pengguna untuk memasukkan nama melalui keyboard
 Output personal: Menampilkan pesan sambutan yang disesuaikan dengan nama yang dimasukkan
 Penggunaan Scanner: Mengimplementasikan kelas Scanner untuk membaca input dari console
 Interaksi dasar: Memberikan pengalaman interaktif sederhana antara program dan pengguna
 
 Program ini menggunakan konsep dasar Java seperti import statement, penggunaan kelas Scanner, method System.out.print() dan System.out.println(), serta pengelolaan resource dengan scanner.close().
 Rencana Proyek
+
 Berdasarkan minat saya dalam bidang teknologi dan pengalaman sehari-hari, berikut adalah rencana program-program sederhana yang ingin saya buat selama semester ini:
 1. Aplikasi Manajemen Tugas Mahasiswa
 Latar belakang: Sebagai mahasiswa, sering kali sulit mengatur jadwal tugas dan deadline
@@ -27,16 +28,7 @@ Simulasi nilai yang dibutuhkan untuk mencapai target GPA
 Konversi sistem nilai (huruf ke angka dan sebaliknya)
 Menyimpan riwayat perhitungan
 
-3. Sistem Informasi Warung Makan Sederhana
-Latar belakang: Terinspirasi dari warung makan di sekitar kampus
-Fitur yang direncanakan:
-
-Menampilkan menu makanan dan harga
-Menghitung total pesanan dan kembalian
-Menyimpan data pesanan harian
-Laporan penjualan sederhana
-
-4. Game Quiz Pengetahuan Umum
+3. Game Quiz Pengetahuan Umum
 Latar belakang: Membuat pembelajaran menjadi lebih menyenangkan
 Fitur yang direncanakan:
 
